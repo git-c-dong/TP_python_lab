@@ -35,7 +35,7 @@
    input_list = [12, 3, 4, 5, 6]
    Then your code should return a list such as:
    [12, 4, 4, 6, 6]
-   <!--初始list 只要自己在代码里写就可以，不需要用户输入-->
+   *初始list 只要自己在代码里写就可以，不需要用户输入*
 
 
 
