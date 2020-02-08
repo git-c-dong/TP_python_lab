@@ -58,6 +58,14 @@
 
    
 
+6. Define a function, accepts two input lists and returns a new list which contains only the unique
+
+   elements from both lists.
+
+   
+
+   
+
    
 
 
